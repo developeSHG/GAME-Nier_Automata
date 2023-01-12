@@ -1,7 +1,7 @@
 # GAME-Nier_Automata
 [DirectX 3D - Team Project] 니어오토마타
 
-동영상(Client) : https://www.youtube.com/watch?v=51SftHxQRdQ 
+ 동영상(Client) : https://www.youtube.com/watch?v=51SftHxQRdQ 
 <br/>동영상(Tool) : https://www.youtube.com/watch?v=SsG11WXrBy0
 <br/>장르 : 핵 앤 슬래시
 <br/>날짜 : 2020.01.01 ~ 2020.03.01
