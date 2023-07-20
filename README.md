@@ -1,4 +1,6 @@
 # GAME-Nier_Automata
+
+<img width="100%" src="https://user-images.githubusercontent.com/79896868/254760255-aa969b99-0e1c-49f6-8c32-691ee39613cb.png"/>
 <h3>[DirectX 3D - Team Project] 니어오토마타</h3>
 
 <b>동영상(Client)</b> : https://www.youtube.com/watch?v=51SftHxQRdQ 
